@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239898946668",
+    "project_id": "phoneauthbloc-a7854",
+    "storage_bucket": "phoneauthbloc-a7854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239898946668:android:5f4311e189e635d2a63c49",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239898946668-2qc6r3mu40k2jq7idg0gg1dq6aoouokb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVAYx9TbII_cev3DRY4c0iTp3I7Iz9JSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239898946668-2qc6r3mu40k2jq7idg0gg1dq6aoouokb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
